@@ -1,0 +1,3 @@
+放这两个权重
+detection_Resnet50_Final.pth
+parsing_parsenet.pth
