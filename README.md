@@ -1,7 +1,8 @@
 # Text-to-Face Generation System for Police Use
 ## Framework
-![image](https://github.com/user-attachments/assets/c02913bd-7789-442b-b73a-fc02844e18bd)
 
+![](https://secure2.wostatic.cn/static/6GajH5RXqWvZcivWC8JTqe/image.png?auth_key=1724049027-uziHotH9jW9twCGUn1u8VH-0-3e409ac5b026c04afcd6d3fd31e4645e)
 
 ## Visualization
-![image](https://github.com/user-attachments/assets/6a0893ff-dd39-4a1b-97af-bd0b7be911e3)
+
+![](https://secure2.wostatic.cn/static/gDExuo34nTQDE2sjWoShef/image.png?auth_key=1724049155-j3uMzTwdmxhWU9sUbQwFcK-0-d89879615a6e22164c43fcc5a41066d6)
